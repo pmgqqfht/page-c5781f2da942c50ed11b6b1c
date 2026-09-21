@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f5680d1abd3fded293383f0c",
+  "owner": "pmgqqfht",
+  "repo": "page-c5781f2da942c50ed11b6b1c",
+  "title": "BkCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c5781f2da942c50ed11b6b1c",
+      "a": "BkCloud",
+      "b": "稳定全球clash加速器",
+      "entity": "BkCloud",
+      "brand": "BkCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e06ecce4e3a490244aa27e7eabb35a95f9dd9f6d5890e900728b50c341239500",
+      "content": {
+        "primary_entity": "BkCloud",
+        "keyword1": "BkCloud",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，BkCloud 提供基础版、旗舰版与团队版三档套餐，月付 ¥15 起，年付更划算。基础版含每月 100GB 流量与 3 台设备，旗舰版 300GB 流量、5 台设备并配备 IPLC 专线，团队版 1000GB 流量与 20 台设备，适合家庭与小型团队选择。",
+          "AI_HERO_SUBTITLE": "BkCloud 多设备订阅方案",
+          "AI_HERO_INTRO": "BkCloud 面向需要稳定连接的访客提供多种 clash 订阅套餐，覆盖个人设备到团队协作场景。套餐按流量、在线设备数与线路类型区分，可按月或按年付费。",
+          "AI_VISUAL_TITLE": "BkCloud 套餐一览",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版配备 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "支持按年付节省长期费用",
+          "AI_FEATURES_TITLE": "套餐与适配要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与使用周期三个角度挑选合适的 BkCloud 套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按同时在线的手机、电脑与平板数量匹配。",
+          "AI_FEATURE_TITLE_2": "按流量需求选套餐",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 或 1000GB 三档流量，日常浏览选基础版，高频视频与游戏可考虑旗舰版。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选套餐",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付价格更低，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期使用。",
+          "AI_CLIENTS_TITLE": "选择适合设备的客户端",
+          "AI_CLIENTS_INTRO": "BkCloud 订阅可在常见 clash 客户端中导入，按设备系统选择对应客户端即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用，旗舰版面向多设备与流媒体、游戏需求，团队版提供大流量与高带宽节点供小团队共用。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_GUIDE_INTRO": "先确定套餐，再确认设备数量与系统，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版与团队版中选择一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统，并对照套餐支持的在线设备数量。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在 clash 客户端中按对应文档添加 BkCloud 订阅地址，完成后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再开始",
+          "AI_CLOSING_TEXT": "先比对各档 BkCloud 套餐的流量与设备数，再按指引完成订阅配置。",
+          "AI_FAQ_TITLE": "BkCloud 常见问题",
+          "AI_FAQ_QUESTION_1": "BkCloud 套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可以。升级套餐通常即时生效，剩余时长会按比例折算；降级一般在当前计费周期结束后生效。具体操作可在订阅管理页面提交，或联系客服协助处理。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版最高 20 台。超出限制时新设备可能无法连接，建议按实际设备数量选择对应套餐。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，适合短期或试用需求；年付一次性支付全年费用，价格更低，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_FAQ_QUESTION_4": "订阅链接如何在客户端导入？",
+          "AI_FAQ_ANSWER_4": "在订单页面复制订阅链接，打开所选客户端找到订阅或配置导入入口，粘贴链接后更新节点即可。不同客户端界面略有差异，可参考对应客户端文档操作。",
+          "AI_FAQ_QUESTION_5": "旗舰版和基础版线路有什么不同？",
+          "AI_FAQ_ANSWER_5": "基础版使用普通线路节点池，适合日常浏览；旗舰版提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，对播放清晰度和游戏延迟有要求的用户可优先考虑。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xmxgww.cn",
+    "host": "xmxgww.cn"
+  },
+  "file_hashes": {
+    "index.html": "55dcdff80c812f222817220fb48f67323a2ad387474b9d039d8df7bc6ad08855",
+    "sitemap.xml": "922629c87290a040a1d6b990a7fff93962eb51f003eeb760df40a467e81681da",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2238932316798f4bf5b6bd7f91ca73ecb8831c6c24449bc5a32e91f3d8ad2aa3",
+    "robots.txt": "62047f9b7e6cf010a683e17b996ea8c5d9454d3cec4879974092333ca47e6442",
+    "748910e3862a34ffac726acf9289d7e4.txt": "d4d27a4db9b998a83c6d2d8f4bbb1d628a29b6cf04d33762385c068661fe9146"
+  },
+  "revision": "60e39a37e8cb2527ecdd9f7146b1dd891f4257776a9ba1b296172446d74dac3d"
+}
